@@ -2,7 +2,7 @@
 ## Assalamu'alaikum
 I am **E. M. Yeaseenur Rahman Tahin**
 
-**Software Enginner 👨‍💻** at 🥚 Chaldal Limited, Bangladesh
+**👨‍💻 Software Engineer** at 🥚 Chaldal Limited, Bangladesh
 
 I begun my career as an *Android Developer*. After that, I switched to *App Designing* then *Frontend Development* and after that *Product Management*. Currently, I am working with *cognitive agents*, *chatbots* and *Natural Language Processing*.
 
